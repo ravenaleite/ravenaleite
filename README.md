@@ -1,52 +1,31 @@
-# 👋 Olá! Sou Ravena Leite
+# Olá, sou a Ravena Leite
 
-**Frontend Developer & Web Designer** | HTML5 • CSS3 • JavaScript | 🌐 **Disponível para Remoto**
+**Desenvolvedora Frontend Júnior** | HTML, CSS, JavaScript, React | Estudante de ADS
 
----
+Busco minha primeira vaga como Frontend Júnior, remota e CLT.
 
-## 💼 Sobre Mim
+## Sobre mim
 
-Sou desenvolvedora frontend especializada em criar sites profissionais, responsivos e otimizados. Atualmente busco minha primeira oportunidade como **Frontend Developer Junior em regime remoto (CLT)**.
+Criei do zero e publiquei três sites completos de demonstração, cada um em um estilo diferente, do layout ao código. Todos são responsivos e têm contato integrado pelo WhatsApp.
 
-Com experiência em desenvolvimento web moderno, tenho expertise em:
-- ✅ Criação de interfaces responsivas
-- ✅ Animações web com THREE.js
-- ✅ Otimização de performance
-- ✅ Web design profissional
+Curso Análise e Desenvolvimento de Sistemas na Anhanguera, com conclusão prevista para 2027.
 
-**Estudo:** Análise e Desenvolvimento de Sistemas (ADS) - Anhanguera 2025-2027
+## Projetos
 
----
+| Projeto | Descrição | Demo |
+|---|---|---|
+| Barbearia Dom Carlos | Site para barbearia, com serviços, preços e agendamento pelo WhatsApp | [Ver no ar](https://ravena-web-design-oficial.netlify.app/demos/barbearia-dom-carlos) |
+| Sabor do Sertão | Site para lanchonete, com cardápio e pedido pelo WhatsApp | [Ver no ar](https://ravena-web-design-oficial.netlify.app/demos/lanchonete-sabor-do-sertao) |
+| Sorriso Claro Odontologia | Site para clínica, com tratamentos, unidades e agendamento | [Ver no ar](https://ravena-web-design-oficial.netlify.app/demos/clinica-sorriso-claro) |
 
-## 🚀 Projetos em Destaque
+Os três são projetos demonstrativos, com negócios fictícios.
 
-### 🎨 **Landing Page 3D Profissional**
+## Stack
 
-Site profissional 3D com animação interativa, design preto e laranja, totalmente responsivo.
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Ferramentas:** Git, GitHub, VS Code, Netlify
 
-**Tecnologias:** HTML5, CSS3, JavaScript (ES6+), THREE.js, Netlify
-**Link:** [Ver ao vivo](https://incomparable-smakaager-fd5a71.netlify.app)
-**GitHub:** [Código](https://github.com/devsravenacris-art/página-de-aterrissagem-3d)
+## Contato
 
----
-
-### 💻 **Portfolio Pessoal (ravena-web-design)**
-Estrutura profissional com arquivos separados (HTML, CSS, JS), animação 3D e design responsivo.
-
-**Tecnologias:** HTML5, CSS3, JavaScript, THREE.js, Responsive Design
-
----
-
-## 🛠️ Stack Técnico
-
-**Frontend:** HTML5 • CSS3 • JavaScript • Responsive Design • Web Design
-
-**Ferramentas:** Git • GitHub • VS Code • Netlify • Linux
-
-**Extras:** UI/UX • THREE.js • PC Otimização • Performance Web
-
----
-
-## 📚 Estou Aprendendo
-
-- 🎓
+- LinkedIn: [linkedin.com/in/ravena-leite-3a5804399](https://www.linkedin.com/in/ravena-leite-3a5804399/)
+- Email: desenvolvedoraravena@proton.me
