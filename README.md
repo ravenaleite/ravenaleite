@@ -21,7 +21,30 @@ Curso Análise e Desenvolvimento de Sistemas na Anhanguera, com conclusão previ
 
 ## Projetos
 
-| Projeto | O que tem | Código | Demo |
-|---|---|---|---|
-| **Rastreador de candidaturas** | App com login, quadro Kanban arrastável, métricas e isolamento por usuário no banco. 51 testes automatizados e CI no GitHub Actions. | [Repositório](https://github.com/ravenaleite/rastreador-candidaturas) | [Ver no ar](https://rastreador-candidaturas.vercel.app) |
-| **TS Transportes** | Site de uma transportadora real de
+| Projeto | O que tem | Links |
+|---|---|---|
+| **Rastreador de candidaturas** | Login, quadro Kanban arrastável e métricas. Isolamento por usuário no banco, 51 testes e CI. | [Código](https://github.com/ravenaleite/rastreador-candidaturas) · [No ar](https://rastreador-candidaturas.vercel.app) |
+| **TS Transportes** | Transportadora real de Salgueiro. Lighthouse de 81 para 97, LCP de 4,2s para 2,3s. | [Código](https://github.com/ravenaleite/ts-transportes) · [No ar](https://ts-transportes.vercel.app) |
+
+### Sites de demonstração
+
+Negócios fictícios, criados para mostrar estilos diferentes de layout.
+
+| Projeto | Descrição | Demo |
+|---|---|---|
+| Barbearia Dom Carlos | Serviços, preços e agendamento pelo WhatsApp | [Ver no ar](https://ravena-web-design-oficial.netlify.app/demos/barbearia-dom-carlos) |
+| Sabor do Sertão | Cardápio e pedido pelo WhatsApp | [Ver no ar](https://ravena-web-design-oficial.netlify.app/demos/lanchonete-sabor-do-sertao) |
+| Sorriso Claro Odontologia | Tratamentos, unidades e agendamento | [Ver no ar](https://ravena-web-design-oficial.netlify.app/demos/clinica-sorriso-claro) |
+
+## Stack
+
+- **Frontend:** TypeScript, React, Next.js, HTML, CSS
+- **Backend e dados:** Supabase (Postgres, Auth, Row Level Security)
+- **Testes e CI:** Vitest, GitHub Actions
+- **Deploy:** Vercel, Netlify
+- **Ferramentas:** Git, GitHub, VS Code
+
+## Contato
+
+- LinkedIn: [linkedin.com/in/ravena-leite-3a5804399](https://www.linkedin.com/in/ravena-leite-3a5804399/)
+- Email: desenvolvedoraravena@proton.me
