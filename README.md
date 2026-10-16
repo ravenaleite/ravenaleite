@@ -1,38 +1,27 @@
 # Olá, sou a Ravena Leite
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**Desenvolvedora Frontend Júnior** | HTML, CSS, JavaScript, React | Estudante de ADS
+**Desenvolvedora Frontend Júnior** | TypeScript, React, Next.js | Estudante de ADS
 
 Busco minha primeira vaga como Frontend Júnior, remota e CLT.
 
 ## Sobre mim
 
-Criei do zero e publiquei três sites completos de demonstração, cada um em um estilo diferente, do layout ao código. Todos são responsivos e têm contato integrado pelo WhatsApp.
+Construo do layout ao deploy. Já entreguei o site de uma transportadora que está no ar atendendo clientes de verdade, e um aplicativo com login, banco de dados e testes automatizados rodando no CI a cada push.
+
+Antes disso publiquei três sites completos de demonstração, cada um num estilo diferente, todos responsivos e com contato pelo WhatsApp.
 
 Curso Análise e Desenvolvimento de Sistemas na Anhanguera, com conclusão prevista para 2027.
 
 ## Projetos
 
-| Projeto | Descrição | Demo |
-|---|---|---|
-| Barbearia Dom Carlos | Site para barbearia, com serviços, preços e agendamento pelo WhatsApp | [Ver no ar](https://ravena-web-design-oficial.netlify.app/demos/barbearia-dom-carlos) |
-| Sabor do Sertão | Site para lanchonete, com cardápio e pedido pelo WhatsApp | [Ver no ar](https://ravena-web-design-oficial.netlify.app/demos/lanchonete-sabor-do-sertao) |
-| Sorriso Claro Odontologia | Site para clínica, com tratamentos, unidades e agendamento | [Ver no ar](https://ravena-web-design-oficial.netlify.app/demos/clinica-sorriso-claro) |
-
-Os três são projetos demonstrativos, com negócios fictícios.
-
-## Stack
-
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Ferramentas:** Git, GitHub, VS Code, Netlify
-
-## Contato
-
-- LinkedIn: [linkedin.com/in/ravena-leite-3a5804399](https://www.linkedin.com/in/ravena-leite-3a5804399/)
-- Email: desenvolvedoraravena@proton.me
+| Projeto | O que tem | Código | Demo |
+|---|---|---|---|
+| **Rastreador de candidaturas** | App com login, quadro Kanban arrastável, métricas e isolamento por usuário no banco. 51 testes automatizados e CI no GitHub Actions. | [Repositório](https://github.com/ravenaleite/rastreador-candidaturas) | [Ver no ar](https://rastreador-candidaturas.vercel.app) |
+| **TS Transportes** | Site de uma transportadora real de
